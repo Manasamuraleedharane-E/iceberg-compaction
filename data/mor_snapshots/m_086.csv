@@ -1,0 +1,7 @@
+committed_at,operation,added_records,added_delete_files,added_position_deletes
+2026-11-24 18:02:18.236000,append,25000,0,0
+2026-11-24 18:02:22.949000,append,12500,0,0
+2026-11-24 18:02:27.776000,append,12500,0,0
+2026-11-24 18:02:32.647000,overwrite,1163,5,970
+2026-11-24 18:02:42.838000,replace,50193,0,0
+2026-11-24 18:02:49.012000,overwrite,1243,5,1036
